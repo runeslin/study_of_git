@@ -28,3 +28,7 @@
 
 Не веришь мне - [ЗАГУГЛИ](https://www.google.com/)	
 
+```python
+print("как же надоел - hello world!!!")
+```
+
