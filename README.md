@@ -29,6 +29,9 @@
 Не веришь мне - [ЗАГУГЛИ](https://www.google.com/)	
 
 ```python
-print("как же надоел - hello world!!!")
+a = "Как же надоел"
+s = ' - '
+d = 'hello world!'
+print(a + s + d)
 ```
 
